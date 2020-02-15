@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="ListView效果"
+        android:id="@+id/listview"
+        >
+        <menu>
+            <item
+            android:title="垂直正向"
+            android:id="@+id/lvs"
+            ></item>
+            <item
+                android:title="垂直反向"
+                android:id="@+id/lvr"
+                ></item>
+            <item
+                android:title="水平正向"
+                android:id="@+id/lhs"
+                ></item>
+            <item
+                android:title="水平反向"
+                android:id="@+id/lhr"
+                ></item>
+        </menu>
+    </item>
+
+    <item
+        android:title="GridView效果"
+        android:id="@+id/gridview"
+        >
+        <menu>
+            <item
+                android:title="垂直正向"
+                android:id="@+id/gvs"
+                ></item>
+            <item
+                android:title="垂直反向"
+                android:id="@+id/gvr"
+                ></item>
+            <item
+                android:title="水平正向"
+                android:id="@+id/ghs"
+                ></item>
+            <item
+                android:title="水平反向"
+                android:id="@+id/ghr"
+                ></item>
+        </menu>
+    </item>
+
+    <item
+        android:title="stagger效果"
+        android:id="@+id/stagger"
+        >
+        <menu>
+            <item
+                android:title="垂直正向"
+                android:id="@+id/svs"
+                ></item>
+            <item
+                android:title="垂直反向"
+                android:id="@+id/svr"
+                ></item>
+            <item
+                android:title="水平正向"
+                android:id="@+id/shs"
+                ></item>
+            <item
+                android:title="水平反向"
+                android:id="@+id/shr"
+                ></item>
+        </menu>
+    </item>
+
+    <item
+        android:title="MoreType"
+        android:id="@+id/moretype"
+        >
+    </item>
+
+</menu>
